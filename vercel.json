@@ -1,9 +1,1 @@
-{
-  "functions": {
-    "install": {
-      "includeFiles": ["package.json", "package-lock.json"],
-      "includeDirs": ["node_modules"],
-      "excludeDirs": [".vercel"]
-    }
-  }
-}
+
